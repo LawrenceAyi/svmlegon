@@ -322,6 +322,7 @@ ol {
 
 .main-menu li {
 	display: inline;
+	margin-right:60px;
 }
 
 .main-menu li a {
